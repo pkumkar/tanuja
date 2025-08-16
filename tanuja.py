@@ -1,0 +1,5 @@
+a = int(input("Enter a number: "))
+b = int(input("Enter another number: "))
+print("The sum is:", a + b)
+print("Please check the syntax of your code. It seems there are some missing parentheses.")
+print("The product is:", a * b)
